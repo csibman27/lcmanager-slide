@@ -144,6 +144,28 @@ Monitor hardware, virtual machines and also data gathering processes
   <img src="images/archive.jpg" width="1500"/>
 </p>
 
+---
+
+
+<!-- .slide: data-background="images/setu_background_no_logo.png" -->
+
+## Service Dependency
+
+<p align="center">
+  <img src="images/dependency.jpg" width="1500"/>
+</p>
+
+---
+
+
+<!-- .slide: data-background="images/setu_background_no_logo.png" -->
+
+## Chart
+
+<p align="center">
+  <img src="images/chart.jpg" width="1500"/>
+</p>
+
 
 ----
 
@@ -154,6 +176,15 @@ Monitor hardware, virtual machines and also data gathering processes
 
 Note:
 Monitor hardware, virtual machines and also data gathering processes
+
+---
+
+<!-- .slide: data-background="images/setu_background_no_logo.png" -->
+
+## Use of AI
+
+* QuillBot's AI-powered paraphrasing tool
+  * https://quillbot.com/spell-checker
 
 ---
 
@@ -179,7 +210,7 @@ Monitor hardware, virtual machines and also data gathering processes
 
 
 
-# Backup Slides
+# Extra Slides
 
 
 ----
@@ -187,10 +218,114 @@ Monitor hardware, virtual machines and also data gathering processes
 
 
 
-### Development
+### Last 5 weeks of sprints to supervisor
+* Week 1-2
 
 <p align="center">
-  <img src="images/08_Gitlab.png" width="1200"/>
+  <img src="images/week1_TJ.jpg" width="900"/>
+  <img src="images/week2_TJ.jpg" width="900"/>
+</p>
+
+Note:
+
+
+----
+
+###
+* Week 3-4
+
+<p align="center">
+  <img src="images/week3_TJ.jpg" width="900"/>
+  <img src="images/week4_TJ.jpg" width="900"/>
+</p>
+
+Note:
+
+
+----
+
+###
+* Week 5
+
+<p align="center">
+  <img src="images/week5_TJ.jpg" width="900"/>
+</p>
+
+Note:
+
+
+----
+
+### My sprints
+* Own Sprint 1
+
+<p align="center">
+  <img src="images/sprint11.jpg" width="800"/>
+  <img src="images/sprint10.jpg" width="800"/>
+</p>
+
+Note:
+
+
+----
+
+### Own Sprint 2
+
+<p align="center">
+ 
+  <img src="images/sprint9.jpg" width="800"/>
+  <img src="images/sprint8.jpg" width="800"/>
+</p>
+
+Note:
+
+
+----
+
+### Own Sprint 3
+
+<p align="center">
+ 
+  <img src="images/sprint12.jpg" width="800"/>
+</p>
+
+Note:
+
+
+----
+
+### Own Sprint 4
+
+<p align="center">
+ 
+  <img src="images/sprint6.jpg" width="800"/>
+  <img src="images/sprint7.jpg" width="800"/>
+</p>
+
+Note:
+
+
+----
+
+### Own Sprint 5
+
+<p align="center">
+ 
+  <img src="images/sprint5.jpg" width="800"/>
+  <img src="images/sprint3.jpg" width="800"/>
+</p>
+
+Note:
+
+
+----
+
+### Own Sprint 6
+
+<p align="center">
+ 
+  <img src="images/sprint1.jpg" width="800"/>
+  <img src="images/sprint2.jpg" width="800"/>
 </p>
 
 Note:
