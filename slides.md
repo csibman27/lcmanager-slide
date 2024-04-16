@@ -188,7 +188,7 @@ Monitor hardware, virtual machines and also data gathering processes
 * Chatgpt AI
   * spellcheck and grammar check in text
 * Adobe Express LogoMaker
-  * Logo maker function and ideas
+  * logo maker function for poster
 
 ---
 
