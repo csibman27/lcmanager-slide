@@ -185,9 +185,10 @@ Monitor hardware, virtual machines and also data gathering processes
 
 * QuillBot's AI-powered paraphrasing tool
   * https://quillbot.com/spell-checker
-
 * Chatgpt AI
   * spellcheck and grammar check in text
+* Adobe Express LogoMaker
+  * Logo maker function and ideas
 
 ---
 
